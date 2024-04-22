@@ -1,4 +1,3 @@
-<a href="https://www.github.com/unclethien" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/unclethien?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 Hi 👋 My name is Thien Nguyen
 =============================
