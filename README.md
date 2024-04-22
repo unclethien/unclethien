@@ -1,3 +1,4 @@
+<a href="https://www.github.com/unclethien" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/unclethien?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 Hi 👋 My name is Thien Nguyen
 =============================
 
@@ -10,7 +11,7 @@ Software Engineer / Data Scientist
 *   ✉️  You can contact me at [DangThien.Nguyen@utdallas.edu](mailto:DangThien.Nguyen@utdallas.edu)
 *   🧠  I'm learning Tensorflow, Numpy, LLM (LLAMA 2, Gemini)
 *   🤝  I'm open to collaborating on community service projects, machine learning and AI
-*   <a href="https://www.github.com/unclethien" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/unclethien?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
 
 ### Skills 
 <p align="left">
