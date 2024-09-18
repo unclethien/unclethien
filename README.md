@@ -76,9 +76,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/unclethien/unclethien/output/snake.svg" alt="Snake animation" />
-
-###
