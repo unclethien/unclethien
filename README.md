@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🎓 Current Master of  Science in Computer Science at University of Texas at Dallas (Expect graduate Dec 2026)<br>🎓 Graduate with a Bachelor of Computer Science (May 2024)<br><br>🌍  I'm based in Dallas - Fort Worth<br>✉️  You can contact me at DangThien.Nguyen@utdallas.edu<br>🧠  I'm learning Tensorflow, Numpy, LLM (LLAMA 2, Gemini)<br>🤝  I'm open to collaborating on community service projects, machine learning and AI</p>
+<p align="left">🎓 Current Master of  Science in Computer Science at University of Texas at Dallas (Expect graduate Dec 2026)<br>🎓 Graduate with a Bachelor of Computer Science (May 2024)<br><br>🌍  I'm based in Dallas - Fort Worth<br>✉️  You can contact me at DangThien.Nguyen@utdallas.edu<br>🧠  I'm learning Tensorflow, Numpy, LLM (LLAMA, Gemini)<br>🤝  I'm open to collaborating on community service projects, machine learning and AI</p>
 
 ###
 
@@ -75,7 +75,6 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=unclethien&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=unclethien&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
