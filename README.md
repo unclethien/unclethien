@@ -69,10 +69,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjZ0OWlmajJjNWl6c2xrZ3pnNGZqaXhqN3dyZ3A0bmVhYm9oejk0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CjmvTCZf2U3p09Cn0h/giphy.webp"  />
-
-###
-
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=unclethien&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
 </div>
