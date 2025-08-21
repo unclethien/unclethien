@@ -2,10 +2,8 @@
 
 ###
 
-<p align="left">🎓 Current Master of  Science in Computer Science at University of Texas at Dallas (Expect graduate Dec 2026)<br>🎓 Graduate with a Bachelor of Computer Science (May 2024)<br><br>🌍  I'm based in Dallas - Fort Worth<br>✉️  You can contact me at DangThien.Nguyen@utdallas.edu<br>🧠  I'm learning Tensorflow, Numpy, LLM (LLAMA, Gemini)<br>🤝  I'm open to collaborating on community service projects, machine learning and AI</p>
-
-###
-
+<p align="left">🎓 Current Master of  Science in Computer Science at University of Texas at Dallas (Expect graduate Dec 2025)<br>🎓 Graduate with a Bachelor of Computer Science (May 2024)<br>💼 Currently Software Developer Coop at IBM TechXChange, TX (May 2025 – Present)<br>💼 Currently Web Specialist at UT Dallas Engineering & Computer Science — Richardson, TX (Jun 2024 – Present)
+<br>🌍  I'm based in Dallas - Fort Worth<br>✉️  You can contact me at DangThien.Nguyen@utdallas.edu<br>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -57,20 +55,12 @@
 </div>
 
 ###
+<p align="left">
+</p>
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/utdthiennguyen/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:DangThien.Nguyen@UTDallas.edu" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
-  </a>
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=unclethien&show_icons=true&locale=en&layout=compact" alt="unclethien" /></p>
 
-###
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=unclethien&show_icons=true&locale=en" alt="unclethien" /></p>
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=unclethien&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=unclethien&" alt="unclethien" /></p>
 
-###
